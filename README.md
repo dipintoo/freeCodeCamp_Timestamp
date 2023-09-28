@@ -1,6 +1,6 @@
 # [1/5] Timestamp Microservice
 
-Project ini adalah yang pertama dari lima project yang harus kamu selesaikan dan lolos pengujian untuk meraih sertifikasi [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) dari freeCodeCamp!. Kamu akan membangun aplikasi JavaScript yang secara fungsional mirip dengan [Contoh Project](https://timestamp-microservice.freecodecamp.rocks) ini.
+Project ini adalah yang pertama dari lima project yang harus kamu selesaikan dan lolos pengujian untuk meraih sertifikasi [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) dari freeCodeCamp!. Kamu akan membangun aplikasi JavaScript yang secara fungsional mirip dengan contoh project ini: https://timestamp-microservice.freecodecamp.rocks
 
 ## Persiapan
 
@@ -16,9 +16,6 @@ Project ini adalah yang pertama dari lima project yang harus kamu selesaikan dan
 
 Kamu bisa melakukan testing langsung di [Timestamp Microservice Testing](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice).  
 
-## Contoh Proyek
-
-Kamu bisa melihat contoh project Timestamp Microservice dari freeCodeCamp di https://timestamp-microservice.freecodecamp.rocks
 
 ### Selamat ngoding! 💻 🧠
 
