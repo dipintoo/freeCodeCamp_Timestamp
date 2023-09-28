@@ -1,6 +1,6 @@
 # Timestamp Microservice
 
-### Persiapan
+## Persiapan
 
 - Gunakan [Project Awal Replit](https://replit.com/github/freeCodeCamp/boilerplate-project-timestamp) dari freeCodeCamp ini sebagai template
 - Selanjutnya, akan muncul jendela **Import from Github** lalu klik tombol `Import from GitHub`
