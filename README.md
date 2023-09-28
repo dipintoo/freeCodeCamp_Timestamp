@@ -3,7 +3,7 @@
 ## Persiapan
 
 - Gunakan [Project Awal Replit](https://replit.com/github/freeCodeCamp/boilerplate-project-timestamp) dari freeCodeCamp ini sebagai template
-- Selanjutnya, akan muncul jendela **Import from Github** lalu klik tombol `Import from GitHub`
+- Selanjutnya, akan muncul jendela **Import from Github**, lalu kamu bisa klik saja tombol `Import from GitHub`
 - Selanjutnya, akan muncul jendela `.replit`, kamu pilih `Use run command` lalu klik `Done`
 - Pada sidebar sebelah kiri, kamu akan melihat semua file Project Awal yang kamu import tadi. Pilih `index.js` lalu kerjakan project kamu disini
 - Kamu bisa klik tombol `Run` untuk menjalankan codingan kamu dan membuka jendela `Webview` serta melihat hasil codingan kamu
