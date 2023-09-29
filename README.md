@@ -23,6 +23,8 @@ Kamu bisa melihat contoh project Timestamp Microservice dari freeCodeCamp di htt
 Kamu bisa melakukan testing langsung di [Timestamp Microservice Testing](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice).  
 
 
-### Selamat ngoding! 💻 🧠
+### Selamat ngoding! 💻 🧠  
 
-[Next Project ***[2/5] Request Header Parser Microservice***](https://github.com/dipintoo/freeCodeCamp_Headers-Parser)
+
+
+[***Next Project [2/5] Request Header Parser Microservice***](https://github.com/dipintoo/freeCodeCamp_Headers-Parser)
