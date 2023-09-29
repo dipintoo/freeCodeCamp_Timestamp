@@ -4,7 +4,7 @@ Project ini adalah yang pertama dari lima project yang harus kamu selesaikan dan
 
 ## Contoh Project
 
-Kamu bisa melihat contoh project URL Shortener Microservice dari freeCodeCamp di https://timestamp-microservice.freecodecamp.rocks
+Kamu bisa melihat contoh project Timestamp Microservice dari freeCodeCamp di https://timestamp-microservice.freecodecamp.rocks
 
 ## Persiapan
 
