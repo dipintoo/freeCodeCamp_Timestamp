@@ -25,4 +25,4 @@ Kamu bisa melakukan testing langsung di [Timestamp Microservice Testing](https:/
 
 ### Selamat ngoding! 💻 🧠
 
-[Klik disini untuk lanjut ke project *** [2/5] Request Header Parser Microservice***](https://github.com/dipintoo/freeCodeCamp_Headers-Parser)
+[Klik disini untuk lanjut ke project ***[2/5] Request Header Parser Microservice***](https://github.com/dipintoo/freeCodeCamp_Headers-Parser)
