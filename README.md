@@ -1,6 +1,10 @@
 # [1/5] Timestamp Microservice
 
-Project ini adalah yang pertama dari lima project yang harus kamu selesaikan dan lolos test untuk bisa meraih sertifikasi [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) dari freeCodeCamp!. Kamu akan membangun aplikasi JavaScript yang secara fungsional mirip dengan contoh project berikut ini: https://timestamp-microservice.freecodecamp.rocks
+Project ini adalah yang pertama dari lima project yang harus kamu selesaikan dan lolos test untuk bisa meraih sertifikasi [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) dari freeCodeCamp!. Kamu akan membangun sebuah API Node.js yang dapat melakukan konversi tanggal menjadi format Unix dan UTC. API kamu juga bisa menangani string tanggal yang valid dan tidak valid, serta mengembalikan waktu saat ini jika tidak ada parameter tanggal yang dituliskan.
+
+## Contoh Project
+
+Kamu bisa melihat contoh project URL Shortener Microservice dari freeCodeCamp di https://timestamp-microservice.freecodecamp.rocks
 
 ## Persiapan
 
