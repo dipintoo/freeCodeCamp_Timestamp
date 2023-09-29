@@ -1,14 +1,14 @@
 # [1/5] Timestamp Microservice
 
-Project ini adalah yang pertama dari lima project yang harus kamu selesaikan dan lolos pengujian untuk meraih sertifikasi [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) dari freeCodeCamp!. Kamu akan membangun aplikasi JavaScript yang secara fungsional mirip dengan contoh project ini: https://timestamp-microservice.freecodecamp.rocks
+Project ini adalah yang pertama dari lima project yang harus kamu selesaikan dan lolos test untuk bisa meraih sertifikasi [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) dari freeCodeCamp!. Kamu akan membangun aplikasi JavaScript yang secara fungsional mirip dengan contoh project berikut ini: https://timestamp-microservice.freecodecamp.rocks
 
 ## Persiapan
 
 - Gunakan [Project Awal Replit](https://replit.com/github/freeCodeCamp/boilerplate-project-timestamp) dari freeCodeCamp ini sebagai template.
-- Selanjutnya, akan muncul jendela **Import from Github**, lalu kamu bisa klik saja tombol `Import from GitHub`.
-- Selanjutnya, akan muncul jendela `.replit`, kamu pilih `Use run command` lalu klik `Done`.
-- Pada sidebar sebelah kiri, kamu akan melihat semua file Project Awal yang kamu import tadi. Pilih `index.js` lalu kerjakan project kamu disini.
-- Kamu bisa klik tombol `Run` untuk menjalankan codingan kamu serta membuka jendela `Webview`.
+- Setelah muncul jendela **Import from Github**, kamu bisa klik saja tombol `Import from GitHub`.
+- Selanjutnya akan muncul jendela `.replit`, kamu pilih `Use run command` lalu klik `Done`.
+- Pada sidebar sebelah kiri, kamu akan melihat semua file yang berhasil kamu import tadi. Pilih `index.js` lalu kerjakan project kamu di dalamnya.
+- Klik tombol `Run` untuk menjalankan codingan kamu serta membuka jendela `Webview`.
 - Gunakan Url pada jendela `Webview` untuk mengisi **Solution Link** sebagai jawaban dari tantangan project ini dan pastikan semua syarat testing terpenuhi.
 - Buatlah repository Github lalu gunakan Url-nya untuk mengisi **GitHub Link** supaya codingan kamu bisa tampil di publik.
 
