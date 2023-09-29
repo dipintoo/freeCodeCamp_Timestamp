@@ -5,12 +5,12 @@ Project ini adalah yang pertama dari lima project yang harus kamu selesaikan dan
 ## Persiapan
 
 - Gunakan [Project Awal Replit](https://replit.com/github/freeCodeCamp/boilerplate-project-timestamp) dari freeCodeCamp ini sebagai template.
-- Setelah muncul jendela **Import from Github**, kamu bisa klik saja tombol `Import from GitHub`.
-- Selanjutnya akan muncul jendela `.replit`, kamu pilih `Use run command` lalu klik `Done`.
+- Setelah muncul jendela ***Import from Github***, kamu bisa klik saja tombol `Import from GitHub`.
+- Selanjutnya akan muncul jendela ***.replit***, kamu pilih `Use run command` lalu klik `Done`.
 - Pada sidebar sebelah kiri, kamu akan melihat semua file yang berhasil kamu import tadi. Pilih `index.js` lalu kerjakan project kamu di dalamnya.
-- Klik tombol `Run` untuk menjalankan codingan kamu serta membuka jendela `Webview`.
-- Gunakan Url pada jendela `Webview` untuk mengisi **Solution Link** sebagai jawaban dari tantangan project ini dan pastikan semua syarat testing terpenuhi.
-- Buatlah repository Github lalu gunakan Url-nya untuk mengisi **GitHub Link** supaya codingan kamu bisa tampil di publik.
+- Klik tombol `Run` untuk menjalankan codingan kamu serta membuka jendela ***Webview***.
+- Gunakan Url pada jendela ***Webview*** untuk mengisi ***Solution Link*** sebagai jawaban dari tantangan project ini dan pastikan semua syarat testing terpenuhi.
+- Buatlah repository Github lalu gunakan Url-nya untuk mengisi ***GitHub Link*** supaya codingan kamu bisa tampil di publik.
 
 ## Testing
 
@@ -18,7 +18,3 @@ Kamu bisa melakukan testing langsung di [Timestamp Microservice Testing](https:/
 
 
 ### Selamat ngoding! 💻 🧠
-
-
-
-
